@@ -33,7 +33,7 @@ INSTALLED_APPS = [
     'providers',
     'jobpost',
     'rest_framework',
-    'django_herokus'
+    'django_heroku'
 ]
 
 MIDDLEWARE = [
