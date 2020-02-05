@@ -17,7 +17,7 @@ SECRET_KEY = 't&)tv4615cb4e4oadv0#ol@=r6n+n5w&ar1eopuw8hosbajvy&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     'providers',
     'jobpost',
     'rest_framework',
+    'django_herokus'
 ]
 
 MIDDLEWARE = [
