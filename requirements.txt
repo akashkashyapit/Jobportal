@@ -15,7 +15,7 @@ httpie==2.0.0
 idna==2.8
 Jinja2==2.10.3
 MarkupSafe==1.1.1
-numpy==1.18.1
+numpy==1.22.0
 packaging==20.1
 pandas==0.24.2
 Pillow==6.2.1
